@@ -1,0 +1,27 @@
+.travel-mania-nav-bg{
+    background-color: rgb(18, 189, 231);
+}
+.travel-mania-quote-bg{
+    background-color: rgb(224, 154, 183);
+    color: white;
+    font-family:verdana;
+    font-family:'Courier New';
+}
+.travel-mania-button{
+    background-color: rgb(250, 109, 84);
+    color: white;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+
+.travel-mania-icons{
+    background-color: rgb(231, 117, 117);
+    border-radius: 25px; 
+    margin-left: 120px; 
+    margin-top: 30px;
+}
+.travel-mania-icons-name{
+    margin-left: 120px;
+}
