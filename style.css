@@ -16,3 +16,7 @@
     background-color: rgb(247, 149, 149);
 
 }
+
+.carousel-caption{
+    opacity: 60%;
+}
